@@ -14,7 +14,6 @@ app.use(express.json({limit: '200mb'}));
 app.options('/', cors())
 
 const corsOptions = {
-    origin: 'https://fhkaim.sharepoint.com',
     optionsSuccessStatus: 200
 }
 
