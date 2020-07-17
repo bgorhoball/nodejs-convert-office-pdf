@@ -2,7 +2,9 @@
 logs
 *.log
 npm-debug.log*
+/.idea
 
 # Dependency directories
 /node_modules
+
 
